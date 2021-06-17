@@ -1,0 +1,20 @@
+*{
+    font-family: 'Cinzel', serif;
+}
+#lettersGuessed
+{
+    margin-top: 50px;
+}
+img{
+    width:700px;
+}
+.input{
+    font-size: 50px;
+}
+.placeholders{
+    font-family: 'Chilanka', cursive;
+}
+.navbar-brand{
+    font-size: 40px;
+    margin-top: 20px;
+}
